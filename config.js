@@ -1,4 +1,4 @@
 // 【重要】FirebaseのRealtime Database URLをここに貼り付けてください
 export const firebaseConfig = {
-    databaseURL: "ここにFirebaseのURLを貼り付けてください"
+    databaseURL: "https://nanndemoiiyo-8c327-default-rtdb.asia-southeast1.firebasedatabase.app/"
 };
